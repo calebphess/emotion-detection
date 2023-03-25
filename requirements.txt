@@ -1,0 +1,6 @@
+opencv-python #cv2 or opencv image library for python
+fer # easy to use facial recognition library
+
+# packages required for fer
+moviepy
+tensorflow 
